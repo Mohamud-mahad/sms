@@ -22,9 +22,10 @@ const Homepage = () => {
                             System
                         </StyledTitle>
                         <StyledText>
-                            Streamline school management, class organization, and add students and faculty.
-                            Seamlessly track attendance, assess performance, and provide feedback.
-                            Access records, view marks, and communicate effortlessly.
+                            Schools that offer IGCSE Edexcel, Cambridge, American, and Canadian systems  on Both O level and A levelprovide a variety of 
+                            educational pathways for students.
+            
+                            
                         </StyledText>
                         <StyledBox>
                             <StyledLink to="/choose">
